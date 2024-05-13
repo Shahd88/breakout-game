@@ -1,0 +1,10 @@
+C:\Users\a\Documents\breakoutiterative\breakoutiterative\bin\Debug\breakoutiterative.exe.config
+C:\Users\a\Documents\breakoutiterative\breakoutiterative\bin\Debug\breakoutiterative.exe
+C:\Users\a\Documents\breakoutiterative\breakoutiterative\bin\Debug\breakoutiterative.pdb
+C:\Users\a\Documents\breakoutiterative\breakoutiterative\obj\Debug\breakoutiterative.csproj.AssemblyReference.cache
+C:\Users\a\Documents\breakoutiterative\breakoutiterative\obj\Debug\breakoutiterative.Form1.resources
+C:\Users\a\Documents\breakoutiterative\breakoutiterative\obj\Debug\breakoutiterative.Properties.Resources.resources
+C:\Users\a\Documents\breakoutiterative\breakoutiterative\obj\Debug\breakoutiterative.csproj.GenerateResource.cache
+C:\Users\a\Documents\breakoutiterative\breakoutiterative\obj\Debug\breakoutiterative.csproj.CoreCompileInputs.cache
+C:\Users\a\Documents\breakoutiterative\breakoutiterative\obj\Debug\breakoutiterative.exe
+C:\Users\a\Documents\breakoutiterative\breakoutiterative\obj\Debug\breakoutiterative.pdb

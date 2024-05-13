@@ -1,0 +1,10 @@
+C:\Users\a\source\repos\breakoutGame\breakoutGame\bin\Debug\breakoutGame.exe.config
+C:\Users\a\source\repos\breakoutGame\breakoutGame\bin\Debug\breakoutGame.exe
+C:\Users\a\source\repos\breakoutGame\breakoutGame\bin\Debug\breakoutGame.pdb
+C:\Users\a\source\repos\breakoutGame\breakoutGame\obj\Debug\breakoutGame.csproj.AssemblyReference.cache
+C:\Users\a\source\repos\breakoutGame\breakoutGame\obj\Debug\breakoutGame.Form1.resources
+C:\Users\a\source\repos\breakoutGame\breakoutGame\obj\Debug\breakoutGame.Properties.Resources.resources
+C:\Users\a\source\repos\breakoutGame\breakoutGame\obj\Debug\breakoutGame.csproj.GenerateResource.cache
+C:\Users\a\source\repos\breakoutGame\breakoutGame\obj\Debug\breakoutGame.csproj.CoreCompileInputs.cache
+C:\Users\a\source\repos\breakoutGame\breakoutGame\obj\Debug\breakoutGame.exe
+C:\Users\a\source\repos\breakoutGame\breakoutGame\obj\Debug\breakoutGame.pdb

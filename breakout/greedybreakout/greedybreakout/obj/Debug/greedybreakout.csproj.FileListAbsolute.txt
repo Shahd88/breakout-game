@@ -1,0 +1,10 @@
+C:\Users\a\Documents\greedybreakout\greedybreakout\obj\Debug\greedybreakout.csproj.AssemblyReference.cache
+C:\Users\a\Documents\greedybreakout\greedybreakout\obj\Debug\greedybreakout.Form1.resources
+C:\Users\a\Documents\greedybreakout\greedybreakout\obj\Debug\greedybreakout.Properties.Resources.resources
+C:\Users\a\Documents\greedybreakout\greedybreakout\obj\Debug\greedybreakout.csproj.GenerateResource.cache
+C:\Users\a\Documents\greedybreakout\greedybreakout\obj\Debug\greedybreakout.csproj.CoreCompileInputs.cache
+C:\Users\a\Documents\greedybreakout\greedybreakout\bin\Debug\greedybreakout.exe.config
+C:\Users\a\Documents\greedybreakout\greedybreakout\bin\Debug\greedybreakout.exe
+C:\Users\a\Documents\greedybreakout\greedybreakout\bin\Debug\greedybreakout.pdb
+C:\Users\a\Documents\greedybreakout\greedybreakout\obj\Debug\greedybreakout.exe
+C:\Users\a\Documents\greedybreakout\greedybreakout\obj\Debug\greedybreakout.pdb

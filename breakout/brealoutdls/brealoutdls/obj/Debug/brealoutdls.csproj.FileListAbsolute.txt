@@ -1,0 +1,10 @@
+C:\Users\a\Documents\brealoutdls\brealoutdls\bin\Debug\brealoutdls.exe.config
+C:\Users\a\Documents\brealoutdls\brealoutdls\bin\Debug\brealoutdls.exe
+C:\Users\a\Documents\brealoutdls\brealoutdls\bin\Debug\brealoutdls.pdb
+C:\Users\a\Documents\brealoutdls\brealoutdls\obj\Debug\brealoutdls.csproj.AssemblyReference.cache
+C:\Users\a\Documents\brealoutdls\brealoutdls\obj\Debug\brealoutdls.Form1.resources
+C:\Users\a\Documents\brealoutdls\brealoutdls\obj\Debug\brealoutdls.Properties.Resources.resources
+C:\Users\a\Documents\brealoutdls\brealoutdls\obj\Debug\brealoutdls.csproj.GenerateResource.cache
+C:\Users\a\Documents\brealoutdls\brealoutdls\obj\Debug\brealoutdls.csproj.CoreCompileInputs.cache
+C:\Users\a\Documents\brealoutdls\brealoutdls\obj\Debug\brealoutdls.exe
+C:\Users\a\Documents\brealoutdls\brealoutdls\obj\Debug\brealoutdls.pdb
